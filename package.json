@@ -4,7 +4,7 @@
   },
   "name": "Express",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "./src/index.js",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.18.0",
